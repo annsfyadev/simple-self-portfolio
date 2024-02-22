@@ -1,0 +1,25 @@
+
+.container{
+    padding: 30px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.title{ /*for css class*/
+    color: rgba(217, 0, 255, 0.638);
+    font-size: 40px;
+    font-family: Impact; 
+}
+
+#desc{ /*for css id*/
+    color: rgb(56, 175, 135);
+    font-size: 20px;
+    font-family:'Trebuchet MS';
+}
+
+
+#self-claim{ /*for css id*/
+    color: rgb(167, 175, 56);
+    font-size: 20px;
+    font-family:'Segoe UI';
+}
